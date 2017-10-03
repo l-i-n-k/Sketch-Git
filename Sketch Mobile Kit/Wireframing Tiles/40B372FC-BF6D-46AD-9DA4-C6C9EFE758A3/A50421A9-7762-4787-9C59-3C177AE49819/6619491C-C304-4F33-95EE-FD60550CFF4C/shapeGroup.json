@@ -1,0 +1,93 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6619491C-C304-4F33-95EE-FD60550CFF4C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7C6B1E61-CE5A-4844-ACB7-2E8A54864A1A",
+    "height": 17.97898651931018,
+    "width": 23.98920485781398,
+    "x": 154.9356789444751,
+    "y": 9.795563820743155
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2E064248-BB98-4B57-A6B7-82BAD665C8C4"
+    },
+    {
+      "class": "shapePath",
+      "id": "90456249-1EEE-4AFF-8E6D-40AD58A09B56"
+    },
+    {
+      "class": "shapePath",
+      "id": "084E3F7F-9EBF-4A75-ABA4-68C0B2F82272"
+    }
+  ],
+  "name": "Wifi",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "5C7F9453-0ED8-4A1E-B3BC-5834FD6805E6",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4313725531101227,
+          "green": 0.3450980484485626,
+          "red": 0.2823529541492462
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "93B8BF43-4595-4654-8C09-DB438F96AA34",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "6129FD7A-15A1-4787-B958-4E5103E39E38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C598CED-5102-49DA-9291-E2EDB8BC114A",
+    "height": 31,
+    "width": 574,
+    "x": 36,
+    "y": 117
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9170BD51-2CF7-4377-89B5-F9F6AABEF236"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51F55316-8A73-4764-9970-AA8F018B3D99"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C13C003-60A7-4CBE-A4D8-60C85F90B4EA"
+    }
+  ],
+  "name": "Inbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

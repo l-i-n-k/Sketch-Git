@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "F4DF5F26-1873-4C73-B2B6-4E4A9679E4EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2623054-E656-41CB-9A70-C9240B34EE88",
+    "height": 90,
+    "width": 640,
+    "x": 0,
+    "y": 1047
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5694C1DF-F376-4CA2-A504-C08B3CA23F44"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CCFC8C9F-CF38-401C-90E9-4C7654BC239E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E1A239C3-3C76-49FE-8DB6-591253656907"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D599E589-928E-4E5E-A247-9097E9B21A77"
+    }
+  ],
+  "name": "Updated + New mail",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

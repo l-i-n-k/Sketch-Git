@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "9DC1D915-1DFC-40F6-BC64-9D39027CCF39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15DAB1BC-7851-4110-9994-CA8BAD253ADB",
+    "height": 22,
+    "width": 52,
+    "x": 575.7463141586286,
+    "y": 7.997665168812091
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2EC55685-1440-44A7-9396-EA6D24BB9F7E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "915D58A3-8654-4F82-B9D6-58DF059F2648"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC11B13B-BA75-4F21-A556-B6BAD588CBFF"
+    }
+  ],
+  "name": "Battery",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

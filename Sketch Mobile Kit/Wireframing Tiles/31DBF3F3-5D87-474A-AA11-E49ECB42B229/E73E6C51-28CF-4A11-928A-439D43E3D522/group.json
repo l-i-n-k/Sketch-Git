@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "E73E6C51-28CF-4A11-928A-439D43E3D522",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 194,
+    "width": 591,
+    "x": 24,
+    "y": 820
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B872ABED-3B55-44B2-86DC-DBD39F48C313"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F8A2DC6-68CC-4604-95B7-D9B9EE8BB773"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DFE128A6-2823-41A2-AE21-86497A850D0C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F673C7D-2956-4406-8A28-CD688A9664E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A846D1E1-6F35-4120-AF2F-2E11C7127DEB"
+    }
+  ],
+  "name": "Message 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

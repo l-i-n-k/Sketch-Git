@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "do_objectID": "91CDBC2B-A0BB-4773-9ED5-BCE01EE4A684",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B186625-2F56-4645-8CA8-FDDBC66CD49E",
+    "height": 930,
+    "width": 557,
+    "x": 43,
+    "y": 72
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E9037D72-16B3-4D6B-99EF-A32FB040E1D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BAA835F-AAD9-4D8B-9E75-884F354AC296"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A0D4409-1685-40BB-998D-EEC9A125C8F2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD0774D9-892E-4E73-8A51-EFA9C3DD0B35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73A79074-17C4-4D41-BBD2-862F78340C3C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3B74785-4FE1-430B-B23C-BB034AB94565"
+    }
+  ],
+  "name": "Keypad",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

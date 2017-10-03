@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "2BD79069-49B1-493A-BFF6-415EEB04B077",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "E4E6C966-C85E-4561-B9A9-3627E3BCE64D",
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F11F6947-3ECB-488F-9B91-807F362EC807",
+    "height": 1136,
+    "width": 640,
+    "x": 1494,
+    "y": 1624
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9DFF284F-B052-4254-9696-6702F19270D3"
+    },
+    {
+      "class": "group",
+      "id": "0EC124AA-6E0A-46B5-A9B0-848B4FEE1888"
+    },
+    {
+      "class": "group",
+      "id": "266C50C2-63F9-4C96-BB97-66225488E372"
+    },
+    {
+      "class": "group",
+      "id": "DA967497-5895-41DD-9072-588F4C2A6A3C"
+    },
+    {
+      "class": "group",
+      "id": "E926F6D8-CF5F-40E1-BEC3-E68ED5BE3ADE"
+    },
+    {
+      "class": "group",
+      "id": "EB29485B-996B-4D90-9F99-4CBB453A4E58"
+    },
+    {
+      "class": "group",
+      "id": "F55943C7-152B-4562-84FA-1CE45D38735D"
+    },
+    {
+      "class": "group",
+      "id": "859CF2EF-EB56-4FE4-8C65-F56E1D5F8B8E"
+    },
+    {
+      "class": "group",
+      "id": "42E78B18-37D6-40AA-90C5-B53757A97D6F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 44,
+    "gutterWidth": 0,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 640
+  },
+  "name": "Delete email",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

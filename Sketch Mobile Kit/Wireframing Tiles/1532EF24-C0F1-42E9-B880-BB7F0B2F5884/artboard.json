@@ -1,0 +1,160 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "1532EF24-C0F1-42E9-B880-BB7F0B2F5884",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "6E3F8255-2271-475F-943D-47EC07526B07",
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7845282D-FF3F-4380-A4BA-268CE73E5F33",
+    "height": 1136,
+    "width": 640,
+    "x": 20,
+    "y": 3013
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6C2F7B04-5F8B-4ED9-8993-FC4DF174F838"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6A96E771-5F80-4AD0-B7E4-8EDB34BDF50C"
+    },
+    {
+      "class": "group",
+      "id": "60D40F1D-BCA5-4E18-B752-E3C637890EB4"
+    },
+    {
+      "class": "group",
+      "id": "2BD5718F-F6C3-4C95-A162-30CF1D9DF48C"
+    },
+    {
+      "class": "group",
+      "id": "E57B168A-F3CE-4785-825B-E102BF3C1F25"
+    },
+    {
+      "class": "group",
+      "id": "FA506E7B-28AE-429E-BDFD-45AC1E9145EE"
+    },
+    {
+      "class": "group",
+      "id": "8C1BB7C6-696A-4E7B-AE40-D906A35414AC"
+    },
+    {
+      "class": "group",
+      "id": "5670BC94-AB65-4AF9-A90C-0B72AB729FE7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "233DDE7C-4125-4283-AA99-A8248118533A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1DCE367A-129F-4C1F-B06E-EFDAD2154237"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "87554A1F-9E52-45BB-A6B1-64A0D33032B4"
+    },
+    {
+      "class": "group",
+      "id": "C9DD3B11-6859-4A23-9032-6F6A5811F496"
+    },
+    {
+      "class": "group",
+      "id": "9DC14AF7-B46F-44F9-B390-6A6097A31CE1"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 44,
+    "gutterWidth": 0,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 640
+  },
+  "name": "Instagram - follow profile",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

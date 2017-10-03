@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "D139D694-B343-4D31-AF6D-5AD86FF15DFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5AD78991-C630-4B28-A5FF-2E5EEE794008",
+    "height": 31,
+    "width": 566,
+    "x": 44,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "22A7A78D-56B2-4383-A6D9-4A54C347CAEB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8797D105-347F-42E8-9EA2-78B7ACE4478E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "40F74CF2-496B-43A3-8D26-1E7318F57FCE"
+    }
+  ],
+  "name": "VIP",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

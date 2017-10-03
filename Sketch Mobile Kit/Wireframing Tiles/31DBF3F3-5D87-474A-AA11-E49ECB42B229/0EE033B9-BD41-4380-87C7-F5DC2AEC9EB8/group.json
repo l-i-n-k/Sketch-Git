@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "0EE033B9-BD41-4380-87C7-F5DC2AEC9EB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 550,
+    "x": 28,
+    "y": 465
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B89D95E3-89CB-4E9D-86BD-AC845DDDDD53"
+    },
+    {
+      "class": "group",
+      "id": "30754D80-29BA-42D2-9E94-46A59A833CA0"
+    },
+    {
+      "class": "group",
+      "id": "38799335-6053-4C75-B9D7-6C5DD53104F5"
+    }
+  ],
+  "name": "Followers + Following + Tweets",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

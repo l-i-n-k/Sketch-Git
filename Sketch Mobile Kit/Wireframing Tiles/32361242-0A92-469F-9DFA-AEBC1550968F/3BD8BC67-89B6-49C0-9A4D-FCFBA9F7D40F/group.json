@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "3BD8BC67-89B6-49C0-9A4D-FCFBA9F7D40F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BB53FA9-E013-4B18-BF63-6738C1646A6D",
+    "height": 145,
+    "width": 591,
+    "x": 18,
+    "y": 825
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "86F58065-DA48-4E05-A01B-7EBA39412572"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "003A4A16-1FBA-4F39-9913-E141E549FAFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "917F592E-53BD-44A2-8759-499AB1D76D3F"
+    },
+    {
+      "class": "group",
+      "id": "6F7B0C61-0915-4A29-AF5D-FB09AA4C12F3"
+    }
+  ],
+  "name": "Album 4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

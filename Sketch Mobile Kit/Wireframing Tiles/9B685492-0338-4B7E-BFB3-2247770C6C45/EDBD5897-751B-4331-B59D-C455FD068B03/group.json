@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "EDBD5897-751B-4331-B59D-C455FD068B03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 178,
+    "width": 641,
+    "x": 0,
+    "y": 183
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B308DA4B-A411-42CE-AC77-CA54D81D69CE"
+    },
+    {
+      "class": "group",
+      "id": "6129FD7A-15A1-4787-B958-4E5103E39E38"
+    },
+    {
+      "class": "group",
+      "id": "D139D694-B343-4D31-AF6D-5AD86FF15DFE"
+    }
+  ],
+  "name": "VIP + Inbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

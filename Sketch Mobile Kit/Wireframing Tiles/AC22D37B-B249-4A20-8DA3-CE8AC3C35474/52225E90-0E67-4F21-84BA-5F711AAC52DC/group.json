@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "52225E90-0E67-4F21-84BA-5F711AAC52DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 922,
+    "width": 642,
+    "x": 0,
+    "y": 125
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "95736166-A032-4267-B125-A5918843E5BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B97823D0-C5C7-454F-96E9-F8EADBA580B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "66860413-400B-4852-92D9-0383543191C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B0AE24C-A442-44BB-A93D-B5A90BA4D346"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D2456395-4F87-4FAF-A4AE-E0D2077ABACE"
+    }
+  ],
+  "name": "Roads",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

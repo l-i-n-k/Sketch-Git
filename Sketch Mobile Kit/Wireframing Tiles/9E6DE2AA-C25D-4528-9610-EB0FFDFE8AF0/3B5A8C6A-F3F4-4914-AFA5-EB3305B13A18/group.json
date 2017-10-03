@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "3B5A8C6A-F3F4-4914-AFA5-EB3305B13A18",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51A103D9-F119-4993-85DE-6B4158D23808",
+    "height": 105,
+    "width": 557,
+    "x": 56,
+    "y": 1004
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "334B0693-E0B2-4FDB-BBEA-798159E4E31C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6946B7CD-DD68-4A37-B12E-20C3EC0E5A17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F15B58EA-3143-4D75-818E-5586A7F41558"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6215177-5CD6-47DC-9C0D-23C994930448"
+    }
+  ],
+  "name": "Message 6",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

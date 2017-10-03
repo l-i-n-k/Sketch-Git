@@ -1,0 +1,105 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E55431FE-1A4D-4882-8386-2BC01D2A04FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DE02D74-0637-4237-BBDA-A5A996667859",
+    "height": 15.95381252989477,
+    "width": 52.77030298349808,
+    "x": 87.60662355008662,
+    "y": 11.04718630268985
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2902ADF5-B51F-460C-804B-2D1913131E15"
+    },
+    {
+      "class": "shapePath",
+      "id": "BBAA9BA2-7B7C-48E2-A5F7-B46CE9F8321D"
+    },
+    {
+      "class": "shapePath",
+      "id": "E071E2DA-CD21-4F69-9FCD-DBBCD8088B96"
+    },
+    {
+      "class": "shapePath",
+      "id": "6171BE44-11F4-4B87-BE4C-2DAA4FAE7450"
+    },
+    {
+      "class": "shapePath",
+      "id": "F216A748-1850-49B1-A7FE-8A30335E1696"
+    },
+    {
+      "class": "shapePath",
+      "id": "719737D1-0360-4430-96E9-992E41914C05"
+    }
+  ],
+  "name": "BELL",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "23182E11-71D6-4D1A-AE69-9AE4663ACB83",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4313725531101227,
+          "green": 0.3450980484485626,
+          "red": 0.2823529541492462
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "93B8BF43-4595-4654-8C09-DB438F96AA34",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

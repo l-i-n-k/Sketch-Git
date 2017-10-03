@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "E9037D72-16B3-4D6B-99EF-A32FB040E1D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "51BA5C1B-934E-4342-806C-F640A98B8CD3",
+    "height": 762,
+    "width": 472,
+    "x": 41,
+    "y": 168
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "24F87F06-C2BD-4455-AD4F-3D63E3CB3D9B"
+    },
+    {
+      "class": "group",
+      "id": "FC881300-0903-4B28-8971-F76D290CBAE0"
+    }
+  ],
+  "name": "Keypad",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

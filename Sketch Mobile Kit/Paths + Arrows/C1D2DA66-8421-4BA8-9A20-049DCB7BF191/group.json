@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "C1D2DA66-8421-4BA8-9A20-049DCB7BF191",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ECFBC4EB-7320-470D-AEE0-C9CB9D0EE3FA",
+    "height": 294,
+    "width": 148,
+    "x": -296,
+    "y": -118
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DD64D70F-6B94-40A3-8FB2-C6253626D37D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "304E69E2-4873-40E9-930B-D49BA8D4A268"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4239A3B-B026-44AF-982C-A896C9C2C835"
+    }
+  ],
+  "name": "Path 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

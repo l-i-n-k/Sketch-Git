@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "4267FA5A-0CF0-4E26-A930-B21C96320FC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9AE0ED18-523B-47C9-A847-085A84099950",
+    "height": 454,
+    "width": 507,
+    "x": 63,
+    "y": 506
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C1B02EBB-C3E8-4B91-A85D-7823E03F73F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06E87938-779E-41A6-82A4-5CAC7E6FABC6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C7801ED-BEB0-4285-A610-20DB2BDDC4D9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9914A918-20F9-49DF-BE95-9B01084B12B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2036233A-2BB4-466A-BD37-7BBA98029049"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C47F3064-9778-4C9D-B6E9-CE2E37D7F657"
+    }
+  ],
+  "name": "Email message 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

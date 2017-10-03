@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "436AD63C-D11F-40C8-8FFE-21B6CBDFC6F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 168,
+    "width": 641,
+    "x": 0,
+    "y": 127
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CF99AD1C-C77C-408B-903A-17E75DAF2739"
+    },
+    {
+      "class": "group",
+      "id": "CDA069BA-8ED2-4904-A36B-08CAEFDD1C04"
+    },
+    {
+      "class": "group",
+      "id": "FCD90A2A-723E-4549-AD8B-424D4079F140"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED53A009-29E8-493C-8962-2166BCF431EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3850B7DB-2568-45BC-8180-E0A832169058"
+    }
+  ],
+  "name": "Days + Current date + Dates",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

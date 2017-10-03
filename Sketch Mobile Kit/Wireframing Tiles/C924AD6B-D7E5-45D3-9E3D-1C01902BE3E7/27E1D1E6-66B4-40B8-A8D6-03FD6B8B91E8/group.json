@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "27E1D1E6-66B4-40B8-A8D6-03FD6B8B91E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC4C8C0F-3EC3-490A-87DF-F8A7B79B1C78",
+    "height": 59,
+    "width": 640,
+    "x": 0,
+    "y": 160
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F14C22C8-4409-4B8E-908B-0654B4DBE4AD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98FDDA75-E8C2-4AE9-88B7-81DAFB29CCBE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A6DD3867-3B88-41A1-91C5-E3580EA5D353"
+    }
+  ],
+  "name": "App menu bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

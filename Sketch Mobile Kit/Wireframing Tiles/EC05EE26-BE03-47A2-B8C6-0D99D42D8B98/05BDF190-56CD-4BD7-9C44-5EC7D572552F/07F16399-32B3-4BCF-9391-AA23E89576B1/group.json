@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "07F16399-32B3-4BCF-9391-AA23E89576B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 68,
+    "x": 12,
+    "y": 13.99066067524905
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9914BFC3-B443-4696-883C-48071D2D27C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9A848376-8172-4F04-B4DD-88DAF964DD7A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "92181C4A-A55A-40B4-9587-02925B9C7040"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "618B577E-62A8-4D2F-8A6E-5ECEF12780B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "81F6FE49-332C-42C3-B437-23C4F2BEB902"
+    }
+  ],
+  "name": "Signal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

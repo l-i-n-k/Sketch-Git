@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "53DE1061-1D06-4CB0-82AB-32AC7CE43E45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 605,
+    "x": 16,
+    "y": 906
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "34E4F7F8-5F03-45AB-8E18-8673E5E36C69"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20F2AE59-3C6D-4478-A466-3EFB10611C81"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A9DA73BC-0D2B-4F63-AAF6-4A43D8E61FFF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E5ABA56-FE83-4830-AF4F-B234E70B6DC9"
+    }
+  ],
+  "name": "Write + Share",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

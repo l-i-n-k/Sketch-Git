@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "42EEDCF5-CB3F-4682-85DD-3A450DDD9EA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10892B7D-ADEB-427B-B2FF-8DF2191F924A",
+    "height": 68,
+    "width": 640,
+    "x": 0,
+    "y": 60
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FF56C564-155E-4D94-8954-89CF8729CF71"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C6FE2850-2E04-4F72-AB55-71E8C3AE156A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1A9F4C5D-8933-430C-8E4D-92BBAE4C0665"
+    }
+  ],
+  "name": "Title bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "B933B9A7-65FE-4C32-9ABD-3221D5B860FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 640,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A2326E48-B090-4CA0-AB56-7CB42AD104EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2B47811E-FC91-405A-8240-2DE73428C491"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA2DEF7D-F864-42A8-8FE2-99045A5E1C1B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FC547852-96AB-4B28-9AE2-08424D1D6C03"
+    }
+  ],
+  "name": "Camera controls - top",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

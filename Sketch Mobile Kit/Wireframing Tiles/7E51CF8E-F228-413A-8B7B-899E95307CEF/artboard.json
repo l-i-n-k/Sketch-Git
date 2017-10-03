@@ -1,0 +1,160 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "7E51CF8E-F228-413A-8B7B-899E95307CEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "do_objectID": "EE0CEAD2-A925-490E-AB2A-3A398C7069CD",
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C35B1977-9BE1-405F-850E-965187A6F406",
+    "height": 1136,
+    "width": 640,
+    "x": 2980,
+    "y": 3013
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7FF7CB9D-1F77-4A15-9A3A-62E77E78FDA3"
+    },
+    {
+      "class": "group",
+      "id": "AA293D98-E641-4A72-B97D-74C334EA41C9"
+    },
+    {
+      "class": "group",
+      "id": "5571E351-9B45-4C1F-8215-D3BB6A4E17DB"
+    },
+    {
+      "class": "group",
+      "id": "A2626465-CA32-422E-A18B-B77CCD42AAA0"
+    },
+    {
+      "class": "group",
+      "id": "E0918E43-6CB2-4CE0-B03E-20238B416D67"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8B3F0057-7A84-4C2B-93D2-77116D09432D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67D49E29-E594-4B1B-8499-94505BDF9D43"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1FDD1060-E54C-498A-823E-3A85DABFE6CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78907659-BD04-44A9-93B7-54F8A03F2B1A"
+    },
+    {
+      "class": "group",
+      "id": "A22B7434-8BCA-4240-8872-4D02F5C9BA72"
+    },
+    {
+      "class": "group",
+      "id": "2E15A5A0-813C-4681-BC3B-D60900D78EAF"
+    },
+    {
+      "class": "group",
+      "id": "6E7B1259-A649-4B36-B5C4-80405B5B4FD0"
+    },
+    {
+      "class": "group",
+      "id": "2DE48FF7-BCA7-481A-8718-29DFF6ECBDDB"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 80,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 44,
+    "gutterWidth": 0,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 8,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 640
+  },
+  "name": "Twitter - Discovery",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

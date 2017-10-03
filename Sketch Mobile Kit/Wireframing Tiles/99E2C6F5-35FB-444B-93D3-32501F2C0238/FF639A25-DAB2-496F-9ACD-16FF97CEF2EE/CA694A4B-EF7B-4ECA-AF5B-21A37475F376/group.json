@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "CA694A4B-EF7B-4ECA-AF5B-21A37475F376",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A83D29F-2D7A-4EF1-B27E-EA81AD487F96",
+    "height": 70,
+    "width": 83,
+    "x": 21,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BC68FAEC-B3A6-4ECD-8F60-FDD73FD39198"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC75C362-F525-467E-8925-D62818767ED2"
+    }
+  ],
+  "name": "News feed",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

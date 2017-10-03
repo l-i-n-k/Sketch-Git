@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "2F6978C4-EEE0-4F3C-BA61-EBDEDCC1D219",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "136D19FA-69DF-4D2A-A063-67BCF4E60B16",
+    "height": 72,
+    "width": 402,
+    "x": 0,
+    "y": 262
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CAE3455F-9027-49AD-97CC-C400DDA55AF9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "811FBFA8-8634-454D-8B12-2BA8CABA21F5"
+    }
+  ],
+  "name": "Create account ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

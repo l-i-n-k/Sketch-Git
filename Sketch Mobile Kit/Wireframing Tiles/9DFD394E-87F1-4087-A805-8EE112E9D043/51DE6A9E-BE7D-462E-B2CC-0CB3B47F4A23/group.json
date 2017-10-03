@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "51DE6A9E-BE7D-462E-B2CC-0CB3B47F4A23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "05E17C26-E681-415E-B6CC-5158BEAC7496",
+    "height": 436,
+    "width": 640,
+    "x": 0,
+    "y": 702
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "16B9814C-FC1E-4AA6-A178-7EBCB552CAFF"
+    },
+    {
+      "class": "group",
+      "id": "B524A5FD-CA55-4101-80E3-9BC8668B0A0F"
+    },
+    {
+      "class": "group",
+      "id": "508B2E8B-3E7D-401E-8293-4CEFE4F03165"
+    }
+  ],
+  "name": "Keyboard",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

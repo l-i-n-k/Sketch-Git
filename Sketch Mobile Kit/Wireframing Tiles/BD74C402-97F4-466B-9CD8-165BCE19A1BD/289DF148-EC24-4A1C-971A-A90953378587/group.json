@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "289DF148-EC24-4A1C-971A-A90953378587",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "113A7C6C-73AF-4659-B954-1C4FD0BD375E",
+    "height": 808,
+    "width": 640,
+    "x": 0,
+    "y": 229
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8AAC0A8D-A2C8-49D5-970E-3522B54AFEE0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "71D36BE0-682B-4E86-BD22-FE2680423D77"
+    }
+  ],
+  "name": "Video",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

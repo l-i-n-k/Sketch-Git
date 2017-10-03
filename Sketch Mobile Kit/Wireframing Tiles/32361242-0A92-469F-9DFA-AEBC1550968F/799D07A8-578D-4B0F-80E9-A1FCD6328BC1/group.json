@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "799D07A8-578D-4B0F-80E9-A1FCD6328BC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "275A2B3E-EF28-40D7-BA43-CF3C06214930",
+    "height": 145,
+    "width": 591,
+    "x": 18,
+    "y": 309
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AA65CAF7-5AE7-47E2-8870-A806414B502B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9EA4DA72-1787-4689-97B5-2B33DAED8050"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F82B807-0707-4F56-87DA-833201CE8314"
+    },
+    {
+      "class": "group",
+      "id": "5D930B30-1329-4CBF-B406-C1994FD3D129"
+    }
+  ],
+  "name": "Videos",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "0828DFCB-6F5C-4B3B-BCFC-29A3871CD411",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED58C7FD-0B31-4704-B0A5-EA203778EF1B",
+    "height": 69,
+    "width": 641,
+    "x": -3,
+    "y": 148
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "93334FED-B951-4028-AF13-724AB0E82FDA"
+    },
+    {
+      "class": "group",
+      "id": "260B2857-3040-4007-BEB1-2EC1A44B1B6C"
+    },
+    {
+      "class": "group",
+      "id": "3340BD11-739F-4848-9A37-430FB086A7BB"
+    },
+    {
+      "class": "group",
+      "id": "7D9BB0C0-8327-4521-BBB3-0B81C7A5A793"
+    }
+  ],
+  "name": "Check in + Photo + Status",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "EB29485B-996B-4D90-9F99-4CBB453A4E58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 160,
+    "width": 640,
+    "x": 0,
+    "y": 213
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "375A7005-8144-4DDD-9F7A-0D55E06E0DFE"
+    },
+    {
+      "class": "group",
+      "id": "C93553AE-0042-48BD-BC2C-C19F9CE76731"
+    },
+    {
+      "class": "group",
+      "id": "0AFF5C56-FAA2-4F19-BBB6-8086B16B5FD6"
+    }
+  ],
+  "name": "Message + More + Trash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

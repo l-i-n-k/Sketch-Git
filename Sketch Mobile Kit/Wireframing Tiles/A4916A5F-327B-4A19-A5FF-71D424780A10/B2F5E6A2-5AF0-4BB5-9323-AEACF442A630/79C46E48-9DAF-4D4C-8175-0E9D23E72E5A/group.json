@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "79C46E48-9DAF-4D4C-8175-0E9D23E72E5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A66AB22-B340-4E07-AF06-96B5B04181D1",
+    "height": 74,
+    "width": 523,
+    "x": 0,
+    "y": 111
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2311DAEF-D91C-4337-9617-5E7EFB02F27E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "690D223E-14FB-4918-8FE2-31FF5954F418"
+    }
+  ],
+  "name": "Password",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

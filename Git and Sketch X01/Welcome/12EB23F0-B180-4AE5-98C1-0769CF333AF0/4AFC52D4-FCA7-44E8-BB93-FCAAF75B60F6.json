@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4AFC52D4-FCA7-44E8-BB93-FCAAF75B60F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 96,
+    "x": 476,
+    "y": 522
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Anniversary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F17E33D-92C2-452F-BE08-E560FF0B320B",
+      "overrideName": "439FA1F5-39AC-4A01-80FA-FA190F15FB84_symbolID",
+      "value": "860D272D-71FF-4172-AE45-606216C104AE"
+    }
+  ],
+  "overrides": {
+    "439FA1F5-39AC-4A01-80FA-FA190F15FB84": {
+      "symbolID": "860D272D-71FF-4172-AE45-606216C104AE"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "76DAC7BE-2F6F-496D-8D0E-0B2E3DD9A82F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

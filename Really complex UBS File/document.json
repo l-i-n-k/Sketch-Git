@@ -14,7 +14,7 @@
     "images": [
     ]
   },
-  "do_objectID": "0AC13F74-E974-403A-A0D6-CA00BF976E8E",
+  "do_objectID": "a0cdc5f0-1e05-11e8-86be-6974da9af308",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
   "foreignSymbols": [
@@ -25,18 +25,11 @@
     ]
   },
   "meta": {
-    "appVersion": "46.2",
+    "appVersion": "49.0.0",
     "build": 44496,
     "version": 93
   },
   "pages": [
-    "Wireframing Tiles",
-    "Paths + Arrows",
-    "Symbols"
-  ],
-  "userInfo": {
-    "com.invisionlabs.sync": {
-      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
-    }
-  }
+    "Page 1"
+  ]
 }
